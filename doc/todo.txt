@@ -1,0 +1,5 @@
+To Do
+Faire la gestion des contacts avec polymer
+- Afficher les contacts existants
+- Ajouter, modifier et supprimer un contact
+

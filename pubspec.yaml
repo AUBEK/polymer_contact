@@ -1,0 +1,4 @@
+name: polymer_contacts
+description: A sample Polymer application
+dependencies:
+    polymer: any

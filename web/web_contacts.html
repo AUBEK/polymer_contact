@@ -1,0 +1,40 @@
+<polymer-element name="web-contacts">
+  <template>
+    
+    <fieldset style="text-align:left;"><legend><b>Formulaire contact</b></legend>
+      <form>            
+        <table border="0">
+          <tr><td align="right"><label for="numero">Numéro</label></td><td><input id="num" type="text" name="num" size=10 maxlength=80 value="" required="true"></td></tr>
+          <tr><td align="right"><label for="prenom">Prénom</label></td><td><input id="prenom" name="prenom" size=40 maxlength=80 value="" required/></td></tr>
+          <tr><td align="right"><label for="nom">Nom</label></td><td><input id="nom" name="nom" size=40 maxlength=80 value="" required/></td></tr>
+          <tr><td align="right"><label for="email">Email</label></td><td><input id="email" type="email" name="email" size=40 maxlength=80 value="" required/></td></tr>
+          <tr><td align="right"><label for="tel">Téléphone</label></td><td><input id="tel" type="tel" name="tel" pattern="\d\d\d-\d\d\d-\d\d\d\d" size=40 maxlength=80 value="" required/></td></tr>
+          <tr><td align="right" valign="top"><label for="adresse">Adresse</label></td><td><textarea id="adresse" name="adresse" cols=60 rows=5 required></textarea></td></tr>              
+          <tr><td align="right" colspan="2"><button on-click="{{add}}" class="button">Add</button><button on-click="{{update}}" class="button">Update</button></td></tr>
+        </table> 
+        <br/>            
+        <label id="message"></label>
+        <br/>   <br/>  
+      </form>
+    </fieldset>
+    <br/>
+    <fieldset style="text-align:left;"><legend><b>Liste des contacts</b></legend>
+      <table border="1">
+         <tr><td>N°</td><td>Prénom</td><td>Nom</td><td>Email</td><td>Téléphone</td><td>Adresse</td><td>Mod</td><td>Sup</td></tr>
+        <tbody template repeat="{{contact in contacts.internalList}}">
+          <tr>
+          <td>{{contact.NoCon}}</td>
+          <td>{{contact.prenom}}</td>
+          <td>{{contact.nom}}</td>
+          <td>{{contact.email}}</td>
+          <td>{{contact.tel}}</td>
+          <td>{{contact.adresse}}</td>    
+          <td align="center"><button on-click="{{edit}}" id="{{contact.NoCon}}"><img src="../img/edit.gif" title="{{contact.NoCon}}"></button></td>
+          <td align="center"><button on-click="{{delete}}" id="{{contact.NoCon}}"><img src="../img/delete.gif" title="{{contact.NoCon}}"></button></td>
+          </tr>                
+        </tbody>
+      </table> 
+     </fieldset>       
+  </template>
+  <script type="application/dart" src="web_contacts.dart"></script>
+</polymer-element>

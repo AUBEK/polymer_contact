@@ -1,0 +1,2404 @@
+---
+build.dart --machine --full
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///C:/Dart/Workspace/polymer_contacts/build.dart:5:8)
+build.dart finished [445 ms]
+
+---
+build.dart --machine --changed=img\banniere.jpg --changed=img\body.jpg --changed=img\delete.gif --changed=img\e...
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///C:/Dart/Workspace/polymer_contacts/build.dart:5:8)
+build.dart finished [415 ms]
+
+---
+build.dart --machine --changed=doc\git\github.txt --changed=doc\todo.txt
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///C:/Dart/Workspace/polymer_contacts/build.dart:5:8)
+build.dart finished [365 ms]
+
+---
+build.dart --machine --changed=doc\git\github.txt
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///C:/Dart/Workspace/polymer_contacts/build.dart:5:8)
+build.dart finished [386 ms]
+
+---
+build.dart --machine --changed=doc\todo.txt
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///C:/Dart/Workspace/polymer_contacts/build.dart:5:8)
+build.dart finished [403 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [2811 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [820 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [532 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [365 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [418 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [413 ms]
+
+---
+build.dart --machine --removed=web\clickcounter.dart
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [535 ms]
+
+---
+build.dart --machine --removed=web\clickcounter.html
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [424 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.html
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [3233 ms]
+
+---
+build.dart --machine --removed=web\my_contacts.html
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [408 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.dart
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [690 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.html
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [411 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.html
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [357 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [408 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [3138 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [347 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.dart
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [343 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.dart
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [388 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.dart
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [351 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.html
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [364 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.html
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [405 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.html
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [341 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [501 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [378 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [462 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [337 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [462 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [383 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [363 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [339 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+'package:utf/utf_stream.dart': Error: line 8 pos 13: cannot resolve class 'StreamEventTransformer' from '_StringDecoder@0x37596c23'
+    extends StreamEventTransformer<List<int>, String> {
+            ^
+build.dart finished [345 ms]
+
+---
+build.dart --machine --full
+Unable to open file: C:/Dart/Workspace/polymer_contacts/packages/polymer/component_build.dart'file:///C:/Dart/Workspace/polymer_contacts/build.dart': Error: line 2 pos 1: library handler failed
+import 'package:polymer/component_build.dart';     
+^
+build.dart finished [140 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+Unable to open file: C:/Dart/Workspace/polymer_contacts/packages/polymer/component_build.dart'file:///C:/Dart/Workspace/polymer_contacts/build.dart': Error: line 2 pos 1: library handler failed
+import 'package:polymer/component_build.dart';     
+^
+build.dart finished [101 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.dart
+Unable to open file: C:/Dart/Workspace/polymer_contacts/packages/polymer/component_build.dart'file:///C:/Dart/Workspace/polymer_contacts/build.dart': Error: line 2 pos 1: library handler failed
+import 'package:polymer/component_build.dart';     
+^
+build.dart finished [103 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+Unable to open file: C:/Dart/Workspace/polymer_contacts/packages/polymer/component_build.dart'file:///C:/Dart/Workspace/polymer_contacts/build.dart': Error: line 2 pos 1: library handler failed
+import 'package:polymer/component_build.dart';     
+^
+build.dart finished [104 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.dart
+Unable to open file: C:/Dart/Workspace/polymer_contacts/packages/polymer/component_build.dart'file:///C:/Dart/Workspace/polymer_contacts/build.dart': Error: line 2 pos 1: library handler failed
+import 'package:polymer/component_build.dart';     
+^
+build.dart finished [104 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.dart
+Unable to open file: C:/Dart/Workspace/polymer_contacts/packages/polymer/component_build.dart'file:///C:/Dart/Workspace/polymer_contacts/build.dart': Error: line 2 pos 1: library handler failed
+import 'package:polymer/component_build.dart';     
+^
+build.dart finished [103 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1474 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1270 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1245 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1247 ms]
+
+---
+build.dart --machine --removed=web\polymer_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1219 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1274 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1349 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1314 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1258 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1213 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1263 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1238 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1239 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1422 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1276 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1291 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1202 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1257 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1404 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1382 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1334 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1667 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1403 ms]
+
+---
+build.dart --machine --full
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [6821 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [2757 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [2687 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [2747 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [2718 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [2639 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1982 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1396 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1349 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [2697 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [2736 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [2806 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [2718 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [2688 ms]
+
+---
+build.dart --machine --full
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [6053 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [2462 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1209 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [2389 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [2430 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [4902 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1279 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [2952 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [2548 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [2429 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [2417 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [2386 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [2492 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1455 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1214 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1226 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1221 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1188 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1206 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1225 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1268 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1215 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1208 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1390 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1303 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1296 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1322 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1242 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0xb0
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1232 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1255 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1231 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1306 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1248 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1217 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1233 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1250 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1251 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1287 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1230 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1244 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1230 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1252 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1225 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1236 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1260 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1285 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1278 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1255 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1277 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1257 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1239 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1307 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1244 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1322 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1229 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1235 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1232 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1245 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1245 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1253 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1263 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1284 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1244 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1288 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1220 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1277 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1254 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1238 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1255 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1262 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1244 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1267 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1762 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1226 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1249 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1247 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1235 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1248 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1235 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [2884 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1254 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1252 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1219 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1207 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1234 ms]
+
+---
+build.dart --machine --changed=web\my_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1382 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.css
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1192 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1188 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1230 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1253 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1237 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1250 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1231 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1233 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1210 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1241 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1227 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1255 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1259 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1235 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1196 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1363 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1235 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1227 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1183 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [3419 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1352 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1222 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1226 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1195 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1201 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1306 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1242 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1204 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1217 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1199 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1257 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1285 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1199 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1224 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1285 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1199 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1246 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1253 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1271 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1267 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1245 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1232 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1194 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1233 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1246 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1239 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1231 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1242 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1254 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1240 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1234 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1243 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1229 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1205 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1202 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1240 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1205 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1233 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1247 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [4724 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1276 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1234 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1244 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1207 ms]
+
+---
+build.dart --machine --changed=README.md
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1651 ms]
+
+---
+build.dart --machine --changed=README.md
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1530 ms]
+
+---
+build.dart --machine --changed=README.md
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1260 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1249 ms]
+
+---
+build.dart --machine --changed=README.md
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1230 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1231 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1280 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1230 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1180 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1230 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1210 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1210 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [3472 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1250 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1260 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1270 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1280 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1210 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1240 ms]
+
+---
+build.dart --machine --changed=README.md
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1250 ms]
+
+---
+build.dart --machine --changed=doc\git\github.txt
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+error running barback: Transform Linter on polymer_contacts|web/web_contacts.html threw error: FormatException: Bad UTF-8 encoding 0x72
+dart:async           _createTimer.<fn>
+timer_impl.dart 151  _Timer._createTimerHandler._handleTimeout
+timer_impl.dart 166  _Timer._createTimerHandler.<fn>
+dart:isolate         _RawReceivePortImpl._handleMessage
+build.dart finished [1220 ms]
+
